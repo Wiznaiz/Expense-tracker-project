@@ -3,4 +3,4 @@ python project for maintaining expenses
 
 ## subheader
 python project using tkinter GUI.
-checking
+added document to github repo expense-track-python.
